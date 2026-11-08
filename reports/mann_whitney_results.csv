@@ -1,0 +1,4 @@
+Variable,Stayed_Count,Left_Count,Stayed_Median,Left_Median,U_Statistic,P_Value
+age,1676,1088,30.0,29.0,1043982.5,1.0000020762953956e-10
+experienceincurrentdomain,1676,1088,2.0,2.0,931287.0,0.33232967824130033
+joiningyear,1676,1088,2015.0,2015.0,745625.5,2.06616165989048e-16

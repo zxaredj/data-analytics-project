@@ -1,0 +1,10 @@
+Column Name,Data Type,Non-Null Count,Missing Count,Missing_Percentage
+Education,object,4653,0,0.0
+JoiningYear,int64,4653,0,0.0
+City,object,4653,0,0.0
+PaymentTier,int64,4653,0,0.0
+Age,int64,4653,0,0.0
+Gender,object,4653,0,0.0
+EverBenched,object,4653,0,0.0
+ExperienceInCurrentDomain,int64,4653,0,0.0
+LeaveOrNot,int64,4653,0,0.0
