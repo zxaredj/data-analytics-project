@@ -1,1 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
 
+# Virtual environments
+venv/
+.env/
+
+# Environment variables and credentials
+.env
+*.key
+credentials.json
+token.json
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
